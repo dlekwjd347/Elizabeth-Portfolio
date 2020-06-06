@@ -1,0 +1,40 @@
+h1, p, li {
+    font-family: 'Bellota', cursive;
+}
+
+header {
+    background-color: #ffddee
+}
+
+#me-pic {
+    border-radius: 15px 50px 30px;
+    border: dotted lightpink;
+    padding: 3px;
+}
+
+#contact-pic {
+    border-radius: 15px 50px 30px;
+    border: dotted yellow;
+    padding: 3px; 
+}
+
+.nav-item {
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.nav-link {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: 30px;
+}
