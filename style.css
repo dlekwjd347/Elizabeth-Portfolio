@@ -1,14 +1,10 @@
-h1, p, li {
-    font-family: 'Bellota', cursive;
-}
-
-header {
-    background-color: #ffddee
+h1, p, li, h2, h5, label {
+    font-family: 'Antic Didone', serif;
 }
 
 #me-pic {
     border-radius: 15px 50px 30px;
-    border: dotted lightpink;
+    border: solid lightpink;
     padding: 3px;
 }
 
@@ -31,10 +27,44 @@ header {
     padding: 15px;
 }
 
+.media-body {
+    margin-right: 40px;
+}
+
+.card {
+    margin-top: 150px;
+    margin-left: 20px;
+    border-radius: 15px 50px 30px;
+}
 .container {
     margin-top: 20px;
 }
 
 h5 {
     font-size: 30px;
+}
+
+p {
+    margin-left: 30px;
+}
+
+form {
+    margin-right: 200px;
+}
+
+.carousel-inner {
+    width: 1520px;
+    height: 700px;
+
+}
+
+.portfolio-row-1 {
+    justify-content: space-between;
+}
+
+
+.copyright{
+    clear: both;
+    padding-top: 30px;
+    text-align: center;
 }
