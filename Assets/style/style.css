@@ -54,7 +54,8 @@ p {
 }
 
 form {
-    margin-right: 200px;
+    /*margin-right: 200px;*/
+    width:100%;
 }
 
 .carousel-inner {
